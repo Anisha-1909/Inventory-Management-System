@@ -10,7 +10,11 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(to right, #6b3f14 10%, #d9b37c 70%, #f7e6cd 100%);
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
 }
 .box {
   width: 450px;
