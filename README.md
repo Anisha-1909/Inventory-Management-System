@@ -12,6 +12,9 @@ A frontend-based **retail inventory management designed to manage inventory for 
 - Category-wise organization
 - simple dashboard UI
 
+### ![Login Page](Images/login.png)
+### ![Dashboard](Images/dashboard.png)
+
  ### Technologies Used
 
 * HTML– structure and layout of the application
