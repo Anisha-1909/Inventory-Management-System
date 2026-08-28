@@ -16,8 +16,8 @@ A frontend-based retail inventory management system designed for supermarkets, g
 
 [view Dashboard Page](Images/dashboard.png)
 
- ### Technologies Used
-|         | Purpose|
+###
+| Technologies Used | Purpose|
 |---------|----------|
 |* HTML| Structure and layout of the application|
 |* CSS| Styling, responsive design, and user interface|
