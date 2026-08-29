@@ -11,9 +11,7 @@ A frontend-based retail inventory management system designed for supermarkets, g
 - Category-wise organization
 - simple dashboard UI
 
- [view Login Page](Images/login.png)
-
- [view Dashboard Page](Images/dashboard.png)
+#### [view Login Page](Images/login.png) | [view Dashboard Page](Images/dashboard.png)
 
 ###
 | Technologies Used | Purpose|
