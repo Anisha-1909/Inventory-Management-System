@@ -1,7 +1,6 @@
 
 ## 🛒Retail Inventory Management 
-
-### Description
+### 
 A frontend-based retail inventory management system designed for supermarkets, grocery stores. The application features a simple login interface that allows users to access the inventory dashboard where users can manage products, monitor stock availability, and identify low-stock items. The system uses the browser's Local Storage to store inventory data.
 
 ### Features
